@@ -3,4 +3,4 @@
 - Use Stylus
 - Or if you can, add it as a custom CSS in Whoogle's settings
 
-![preview][preview.png]
+![preview](preview.png)
